@@ -1,0 +1,47 @@
+Microsoft Windows [Versión 10.0.22631.3880]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\sepro>cd C:\Users\sepro\Documents
+
+C:\Users\sepro\Documents>cd../..
+
+C:\Users>cd C:\Users\sepro\Documents
+
+C:\Users\sepro\Documents>md Prueva
+
+C:\Users\sepro\Documents>cd otra
+
+C:\Users\sepro\Documents\Otra>move tuto.pdf C:\Users\sepro\Documents\Prueva
+Se han movido         1 archivos.
+
+C:\Users\sepro\Documents\Otra>cd..
+
+C:\Users\sepro\Documents>cd prueva
+
+C:\Users\sepro\Documents\Prueva>rename tuto.pdf tutorial.pdf
+
+C:\Users\sepro\Documents\Prueva>move tutorial.pdf C:\Users\sepro\Documents\Otra
+Se han movido         1 archivos.
+
+C:\Users\sepro\Documents\Prueva>cd..
+
+C:\Users\sepro\Documents>del Prueva
+C:\Users\sepro\Documents\Prueva\*, ¿Está seguro (S/N)? s
+
+C:\Users\sepro\Documents>Doskey /history
+cd C:\Users\sepro\Documents
+cd../..
+cd C:\Users\sepro\Documents
+md Prueva
+cd otra
+move tuto.pdf C:\Users\sepro\Documents\Prueva
+cd..
+cd prueva
+rename tuto.pdf tutorial.pdf
+move tutorial.pdf C:\Users\sepro\Documents\Otra
+cd..
+del Prueva
+s
+Doskey /history
+
+C:\Users\sepro\Documents>
