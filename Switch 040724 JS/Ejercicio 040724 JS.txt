@@ -1,0 +1,27 @@
+EXERCISIS JAVASCRIPT
+
+1- Tens:
+- una variable amb els estalvis del client*
+- demanes el nom del client
+- demanes l’ubicació (ciutat)
+- demanes l’ingrès
+I dones com a resultat:
+"Et dius Pep, vius a València y tens estalviat 2400 € " (quant has estalviat aquest mes + lo que ja tenies abans*)
+
+2- PES IDEAL
+- Demanes l’alçada
+- demanes el pes
+- Li dius: "Hola Albert, peses 80 Kg, però el teu pes ideal és 78 Kg"
+
++EXTRA: si home o don el cálcul és diferent:
+-> fòrmula fàcil. Fòrmula de Broca:
+Alçada restar 100 per homes: 170-100 = 70kg
+Alçada i restar 104 per dones: 170-104=66Kg
+
+
+3- Entrada discoteca
+Ets el segurata d’una disco i preguntes quina edat té el client:
+- Si té més de 18 anys => “endavant, passa!”
+- Si té 18 anys => “uiii, per poc. Endavant”
+- Si té menys de 18 anys => “apa, pa tu casa”
+
